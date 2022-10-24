@@ -25,6 +25,6 @@
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 건강하고 재미있고 즐겁게 생활 하는게 목표입니다.
 
 
+[HTML5
 HTML5
-HTML5
-CSS3
+CSS3](https://img.shields.io/badge/HTML5-CSS3-blue)
